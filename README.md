@@ -3,5 +3,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=imsunbow)](https://solved.ac/imsunbow)
 
 - 🎯 Algorithm Competitions  
-- Solved over **600+ algorithm problems** on Baekjoon Online Judge  
+- Solved over **700+ algorithm problems** on Baekjoon Online Judge  
 - Ranked **6th** in school-wide leaderboard (Yonsei University Mirae Campus)
