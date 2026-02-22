@@ -4,4 +4,4 @@
 
 - 🎯 Algorithm Competitions  
 - Solved over **700+ algorithm problems** on Baekjoon Online Judge  
-- Ranked **6th** in school-wide leaderboard (Yonsei University Mirae Campus)
+- Ranked **5th** in school-wide leaderboard (Yonsei University Mirae Campus)
